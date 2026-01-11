@@ -20,10 +20,10 @@ TARGET_TABLE = 'goodreads_library_export'
 
 conn_str = (
     "DRIVER={ODBC Driver 18 for SQL Server};"
-    "Server=LAPTOP-TFL1BJ5M\\SQLEXPRESS;"
+    "Server=;"
     "Database=personal-library;"
-    "UID=bulk_import_user;"
-    "PWD=StrongPassword123!;"
+    "UID=;"
+    "PWD=;"
     "Encrypt=no;"
     "TrustServerCertificate=yes;"
 )
