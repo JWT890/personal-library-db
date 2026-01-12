@@ -6,6 +6,8 @@ Preqs: SQL Server and SQL Server Management Studio:  https://learn.microsoft.com
 
 Designed a database to manage and track my Goodreads book library with details such as authors, books, genres and reading progress. 
 
+How to create a user in SSMS: https://learn.microsoft.com/en-us/sql/relational-databases/security/authentication-access/create-a-database-user?view=sql-server-ver17  
+
 # Database Schema
 Author:  
 author_id (PK, INT, Idenity) - Unique Identifier  
